@@ -1,0 +1,17 @@
+body
+{
+    background-color:#B2BEB5;
+}
+
+.flex
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.margin
+{
+    margin-top:20px;
+    margin-bottom:20px;
+}
